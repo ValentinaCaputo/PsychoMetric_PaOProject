@@ -5,4 +5,4 @@ L’obiettivo di PsychoMetric è fornire allo studente di psicologia uno strumen
 1. Crea, importa, salva una variabile,
 2. Manipolazione dei dati all'interno della variabile,
 3. Esercizi sulle frequenze a partire dal tipo e dai dati della variabile,
-4. Visualizzazione dei grafici a partire dai dati della variabile e la frequenza selezionata.
+4. Visualizzazione dei grafici a partire dai dati della variabile e dalla frequenza selezionata.
