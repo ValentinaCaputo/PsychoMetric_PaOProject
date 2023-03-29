@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Scale type: 0-nominal, 1-ordinal, 2-interval, 3-ratio-->
+<Variable>
+    <Name title="QI"/>
+    <Scale type="2"/>
+    <Data attribute="95.000000" numberValue="95"/>
+    <Data attribute="100.000000" numberValue="100"/>
+    <Data attribute="98.000000" numberValue="98"/>
+    <Data attribute="105.000000" numberValue="105"/>
+    <Data attribute="106.000000" numberValue="106"/>
+    <Data attribute="104.000000" numberValue="104"/>
+    <Data attribute="109.000000" numberValue="109"/>
+    <Data attribute="110.000000" numberValue="110"/>
+    <Data attribute="78.000000" numberValue="78"/>
+    <Data attribute="85.000000" numberValue="85"/>
+    <Data attribute="113.000000" numberValue="113"/>
+    <Data attribute="102.000000" numberValue="102"/>
+    <Data attribute="104.000000" numberValue="104"/>
+    <Data attribute="89.000000" numberValue="89"/>
+    <Data attribute="105.000000" numberValue="105"/>
+    <Data attribute="107.000000" numberValue="107"/>
+    <Data attribute="120.000000" numberValue="120"/>
+    <Data attribute="106.000000" numberValue="106"/>
+    <Data attribute="100.000000" numberValue="100"/>
+    <Data attribute="97.000000" numberValue="97"/>
+</Variable>

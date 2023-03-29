@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Scale type: 0-nominal, 1-ordinal, 2-interval, 3-ratio-->
+<Variable>
+    <Name title="Genere"/>
+    <Scale type="0"/>
+    <Data attribute="maschio" numberValue="-99"/>
+    <Data attribute="femmina" numberValue="-99"/>
+    <Data attribute="maschio" numberValue="-99"/>
+    <Data attribute="maschio" numberValue="-99"/>
+    <Data attribute="femmina" numberValue="-99"/>
+    <Data attribute="maschio" numberValue="-99"/>
+    <Data attribute="femmina" numberValue="-99"/>
+    <Data attribute="femmina" numberValue="-99"/>
+    <Data attribute="femmina" numberValue="-99"/>
+    <Data attribute="femmina" numberValue="-99"/>
+    <Data attribute="maschio" numberValue="-99"/>
+    <Data attribute="maschio" numberValue="-99"/>
+    <Data attribute="maschio" numberValue="-99"/>
+    <Data attribute="femmina" numberValue="-99"/>
+    <Data attribute="maschio" numberValue="-99"/>
+    <Data attribute="maschio" numberValue="-99"/>
+    <Data attribute="femmina" numberValue="-99"/>
+    <Data attribute="maschio" numberValue="-99"/>
+    <Data attribute="maschio" numberValue="-99"/>
+    <Data attribute="femmina" numberValue="-99"/>
+</Variable>

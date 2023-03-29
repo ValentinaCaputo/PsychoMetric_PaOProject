@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Scale type: 0-nominal, 1-ordinal, 2-interval, 3-ratio-->
+<Variable>
+    <Name title="Età"/>
+    <Scale type="3"/>
+    <Data attribute="250000.000000" numberValue="250000"/>
+    <Data attribute="28.000000" numberValue="28"/>
+    <Data attribute="35.000000" numberValue="35"/>
+    <Data attribute="64.000000" numberValue="64"/>
+    <Data attribute="27.000000" numberValue="27"/>
+    <Data attribute="32.000000" numberValue="32"/>
+    <Data attribute="56.000000" numberValue="56"/>
+    <Data attribute="44.000000" numberValue="44"/>
+    <Data attribute="42.000000" numberValue="42"/>
+    <Data attribute="29.000000" numberValue="29"/>
+    <Data attribute="30.000000" numberValue="30"/>
+    <Data attribute="71.000000" numberValue="71"/>
+    <Data attribute="19.000000" numberValue="19"/>
+    <Data attribute="62.000000" numberValue="62"/>
+    <Data attribute="47.000000" numberValue="47"/>
+    <Data attribute="39.000000" numberValue="39"/>
+    <Data attribute="27.000000" numberValue="27"/>
+    <Data attribute="28.000000" numberValue="28"/>
+    <Data attribute="54.000000" numberValue="54"/>
+    <Data attribute="40.000000" numberValue="40"/>
+</Variable>

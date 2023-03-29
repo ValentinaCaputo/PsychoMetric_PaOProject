@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Scale type: 0-nominal, 1-ordinal, 2-interval, 3-ratio-->
+<Variable>
+    <Name title="Scolarità"/>
+    <Scale type="1"/>
+    <Data attribute="elementare" numberValue="0"/>
+    <Data attribute="licenza media" numberValue="1"/>
+    <Data attribute="elementare" numberValue="0"/>
+    <Data attribute="licenza media" numberValue="1"/>
+    <Data attribute="licenza media" numberValue="1"/>
+    <Data attribute="elementare" numberValue="0"/>
+    <Data attribute="elementare" numberValue="0"/>
+    <Data attribute="diploma" numberValue="2"/>
+    <Data attribute="laurea" numberValue="3"/>
+    <Data attribute="licenza media" numberValue="1"/>
+    <Data attribute="elementare" numberValue="0"/>
+    <Data attribute="diploma" numberValue="2"/>
+    <Data attribute="elementare" numberValue="0"/>
+    <Data attribute="licenza media" numberValue="1"/>
+    <Data attribute="diploma" numberValue="2"/>
+    <Data attribute="laurea" numberValue="3"/>
+    <Data attribute="elementare" numberValue="0"/>
+    <Data attribute="licenza media" numberValue="1"/>
+    <Data attribute="elementare" numberValue="0"/>
+    <Data attribute="diploma" numberValue="2"/>
+</Variable>

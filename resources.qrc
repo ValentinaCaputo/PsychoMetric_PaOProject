@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/esempi_PsychoMetric/scala_intervalli.xml</file>
+        <file>resources/esempi_PsychoMetric/scala_nominale.xml</file>
+        <file>resources/esempi_PsychoMetric/scala_ordinale.xml</file>
+        <file>resources/esempi_PsychoMetric/scala_rapporti.xml</file>
+        <file>resources/guide/images/barC.jpg</file>
+        <file>resources/guide/images/dontpanic.png</file>
+        <file>resources/guide/images/gaussian.jpg</file>
+        <file>resources/guide/images/helpColor.png</file>
+        <file>resources/guide/images/knowledge-and-data.jpg</file>
+        <file>resources/guide/images/misureScale.jpg</file>
+        <file>resources/guide/images/pie2.jpg</file>
+        <file>resources/guide/chart.html</file>
+        <file>resources/guide/frequency.html</file>
+        <file>resources/guide/home.html</file>
+        <file>resources/guide/variable.html</file>
+        <file>resources/guide/why.html</file>
+        <file>resources/icons/add.png</file>
+        <file>resources/icons/bar.png</file>
+        <file>resources/icons/convert.png</file>
+        <file>resources/icons/freqCalc.png</file>
+        <file>resources/icons/freqShow.png</file>
+        <file>resources/icons/help.png</file>
+        <file>resources/icons/import.png</file>
+        <file>resources/icons/interval.png</file>
+        <file>resources/icons/linear.png</file>
+        <file>resources/icons/logo.jpg</file>
+        <file>resources/icons/new.png</file>
+        <file>resources/icons/nominal.png</file>
+        <file>resources/icons/ok.png</file>
+        <file>resources/icons/ordinal.png</file>
+        <file>resources/icons/pie.png</file>
+        <file>resources/icons/ratio.png</file>
+        <file>resources/icons/remove.png</file>
+        <file>resources/icons/replace.png</file>
+        <file>resources/icons/reset.png</file>
+        <file>resources/icons/save.png</file>
+        <file>resources/icons/search.png</file>
+        <file>resources/icons/warning.png</file>
+        <file>resources/icons/wrong.png</file>
+        <file>resources/step1.png</file>
+        <file>resources/step2.png</file>
+        <file>resources/style.css</file>
+        <file>resources/guide/images/freqTab.jpg</file>
+    </qresource>
+</RCC>

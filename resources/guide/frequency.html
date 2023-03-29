@@ -1,0 +1,90 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="it" lang="it">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	
+	<title>Scale di Misura</title>
+
+	<link rel="shortcut icon" type="image/png" href="images/helpColor.png" />
+
+	<meta name="author" content="Valentina Caputo" />
+
+</head>
+
+<style type="text/css">
+
+*{
+	font-family: Helvetica;
+	font-size: large;
+	border-style: dotted;
+	padding: 20 em;
+
+	margin-top: 0.5em;
+	margin-right: 0.5em;
+	margin-left: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+#content h2{
+	text-align: center;
+	font-size: x-large;
+	margin-bottom:2.2em;
+}
+
+#figure{
+	text-align: center;
+	
+}
+
+li{
+	margin-left: 1.5em;
+	margin-right: 0.8em;
+}
+
+#content p{
+	margin-top:0.2em;
+	margin-bottom:1.2em;
+	margin-left: 10%;
+}
+
+em{
+	font-style: oblique;
+	font-size: larger;
+	color: #1B5299;
+}
+
+
+</style>
+
+<body>
+
+	
+	<div id="content">
+	   <h2 xml:lang="en">Distribuzione di frequenza con una variabile</h2>
+
+	   <p id="figure"><img src="images/freqTab.jpg" width="260" height="140"></p>
+
+		<p>Dopo aver raccolto i dati è opportuno dare una forma e un significato a questi valori, in modo tale da essere in grado di trarre informazioni da questi.</p>
+		<p>Come la lavorazione del diamante, le analisi statistiche aggregano i dati grezzi raccolti in fase sperimentale, li ripuliscono da evidenti distorsioni o valori spuri e li confrontano tra loro per restituire informazioni preziose che andranno ad accrescere le nostre conoscenze.</p>  
+		<p>Prendiamo sempre il nostro esempio come riferimento. Ammettiamo che siamo riusciti a contattare 50 persone e a raccogliere, per ognuna di queste, i dati necessari: genere, livello di istruzione, età e risultato al test di memoria.</p>
+		<p>La prima cosa da verificare è quanto i nostri dati siano bilanciati. Abbiamo detto che siamo interessati a verificare possibili differenze di memoria in funzione del genere, del livello di istruzione e dell'età. Quindi, dobbiamo assicurarci di avere abbastanza rappresentanti per ogni categoria considerata.</p>
+		<p>Dunque, per ogni variabile, si dovranno calcolare le distribuzioni di frequenza.</p>
+
+		<ul type="circle">
+			<li><em>Frequenza semplice</em>: per ogni attributo/valore che definisce la variabile viene calcolato il numero di volte in cui questo è presente nel nostro campione. Esempio: nella variabile genere gli attributi sono maschio e femmina, per cui nella distribuzione di frequenza semplice avrò l'attributo maschio con il relativo numero di maschi presenti nel campione e l'attributo femmina con corrispettivo numero di femmine nel campione.</li>
+			<li><em>Frequenza relativa</em>: dona maggiore significato ai dati ottenuti, calcolando il rapporto tra frequenza semplice e numero totale del campione. Per comprendere l'importanza di questo valore, pensate alla vostra vita da studenti. Dovete preparare l'esame di psicometria e avete saputo che nell'ultimo appello 20 persone sono state bocciate. Questo dato è una frequenza semplice, qualcuno per voi ha contato il numero di persone che non hanno superato la prova. Quanto è di cattivo presagio? Posso pensare che sia un'esame infattibile e che sicuramente andrà male? Proviamo, però, a prendere in considerazione un secondo elemento, sappiamo che i presenti alla prova erano 100, quindi posso adesso dire che 20 persone su 100 non hanno superato la prova. Qualcosa è cambiato nelle nostre aspettative? Abbiamo più speranze? E se al posto di 100 persone ce ne fossero state 30? Come potete ben intuire da questo semplice esempio, la frequenza relativa è in grado di fornire maggiori informazioni rispetto all'oggetto della nostra misurazione. Ricorda: diffida della sola frequenza semplice offerta senza altri dati sul campione di riferimento, spesso sono utilizzati più per creare effetti sensazionalistici piuttosto che per dare informazione!</li>
+			<li><em>Frequenza percentuale</em>: estende il significato della frequenza relativa, restituendo lo stesso valore moltiplicato per cento. Come nell'esempio precedente quando si parlava di 90% maschi e 10% femmine.</li>
+			<li><em>Frequenza cumulata</em>: corrisponde alla somma del numero di persone che hanno quel determinato attributo o valore della variabile e di tutte le persone che hanno un attributo o un valore inferiore a quello in esame. Quindi, presupposto fondamentale per il calcolo delle frequenze cumulate, è che gli attributi o i valori della variabile siano ordinati.</li>
+			<li><em>Frequenza cumulata relativa</em>: mette insieme il potere informativo della frequenza relativa con la frequenza cumulata, per cui se la mia ambizione è prendere un voto maggiore di 24, posso andare a considerare la frequenza relativa di tutti coloro che hanno preso un voto uguale o inferiore a 24 all'ultimo esame.</li>
+			<li><em>Frequenza percentuale cumulata</em>: esattamente come per la frequenza percentuale, la frequenza percentuale cumulata non è altro che la frequenza cumulata relativa moltiplicata per 100 (spesso preferita perchè ci capiamo meglio se diciamo il 35% circa di persone... piuttosto che circa lo 0.35 di persone...)</li>
+		</ul> 
+		<p>Come riprova per i conti: per ogni variabile, la somma delle frequenze relative è uguale al numero totale del campione, la somma delle frequenze cumulate è pari a 1 e la somma delle frequenze percentuali e delle frequenze percentuali cumulate è 100.</p>
+		<p>Infine ricorda: le frequenze cumulate, comprese le frequenze cumulate relative e percentuali cumulate, sono calcolabili solamente se la variabile è composta da elementi ordinabili! Quindi se utilizzate la scala nominale non ha alcun senso calcolare la frequenza cumulata!</p>
+	</div>
+
+</body>
+
+</html>
